@@ -77,7 +77,6 @@ class TTTGame {
   }
 
   play() {
-    //SPIKE
     this.displayWelcomeMessage();
 
     while (true) {
